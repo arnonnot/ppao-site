@@ -1,0 +1,5 @@
+# Node/build caches (if you add tooling later)
+node_modules/
+dist/
+.cache/
+.DS_Store
